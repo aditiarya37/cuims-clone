@@ -7,7 +7,7 @@ This project is a clone of the Chandigarh University Information Management Syst
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 
 ## Overview
@@ -31,7 +31,7 @@ The CUIMS Clone project replicates the basic design and layout of the Chandigarh
 ## Usage
 Open `index.html` in your preferred web browser to view the website.
 
-## Screenshots
+## Screenshot
 ![Dashboard](Images/cuims-screenshot.png)
 
 ## Contributing
