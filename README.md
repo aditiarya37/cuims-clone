@@ -32,7 +32,7 @@ The CUIMS Clone project replicates the basic design and layout of the Chandigarh
 Open `index.html` in your preferred web browser to view the website.
 
 ## Screenshot
-![Dashboard](Images/cuims-screenshot.png)
+![Dashboard](Images/cuims-clone-screenshot.png)
 
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request.
